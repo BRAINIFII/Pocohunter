@@ -8,7 +8,7 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 * you point your finger at me for messing up your device, I will IDK at you or something.
 ## .......
 
-Kernel source: LOS beryllium kernel
-Toolchain: LOS github
+* Kernel source: android_kernel_xiaomi_sdm845 (Lineage OS)
+* Toolchain: aarch64 and arm (Lineage OS)
 ### If you have any questions or want to report bugs PM me.
 Telegram: https://t.me/Hilledkinged
