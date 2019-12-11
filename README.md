@@ -10,5 +10,5 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 
 Kernel source: LOS beryllium kernel
 Toolchain: LOS github
-# If you have any questions or want to report bugs PM me.
+### If you have any questions or want to report bugs PM me.
 Telegram: https://t.me/Hilledkinged
