@@ -4,7 +4,6 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 # .......
 /*
 * Your warranty is void. Or vaild, probably?
-*
 * I am not responsible for bricked devices, dead SD cards, Ebola-tion X,
 * thermonuclear war, or the current economic crisis caused by you following 
 * these directions. YOU are choosing to make these modificiations, and if 
@@ -12,7 +11,7 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 */
 # .......
 
-
-
+Kernel source: LOS beryllium kernel
+Toolchain: LOS github
 # If you have any questions or want to report bugs PM me.
-## Telegram: https://t.me/Hilledkinged
+Telegram: https://t.me/Hilledkinged
