@@ -8,11 +8,7 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 * YOU are choosing to make these modificiations, and if 
 * you point your finger at me for messing up your device, I will IDK at you or something.
 ## .......
-
-
-* Kernel source: android_kernel_xiaomi_sdm845 (Lineage OS)
-* Toolchain: aarch64 and arm (Lineage OS)
-
+## Downloads under releases
 ## .......
 *  Recommended ROM is Lineage OS 16
 *  You can download chroot from https://build.nethunter.com/kalifs/kalifs-latest/
