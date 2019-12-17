@@ -6,7 +6,7 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 * Your warranty is void. Or vaild, probably?
 * I am not responsible for bricked devices, dead SD cards, etc
 * YOU are choosing to make these modificiations, and if 
-* you point your finger at me for messing up your device, I will IDK at you or something.
+* you point your finger at me for messing up your device, I will LMAO or something.
 ## .......
 ## Downloads under releases
 ## .......
