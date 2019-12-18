@@ -17,3 +17,5 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 
 ### If you have any questions or want to report bugs PM me.
 Telegram: https://t.me/Hilledkinged
+### Official kernel group to keep track of updates and news
+https://t.me/pocohunter_kernel
