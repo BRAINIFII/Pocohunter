@@ -1,9 +1,8 @@
-# Pocohunter (1.1 and up will be not secure to use read below)
+# Pocohunter
 Idea is to create nethunter supported beryllium kernel and add new features to it. But I can't give ETA when I add releases to kernel. When I have time then I will try to create new version and add it here. Sry bad English.
 
 ## .......
 * @@ i am not responsible for your actions! IN EVERY WAY @@
-* @@kernel (1.1 and up) has very low security. (disabled many security options)@@
 * Your warranty is void. Or vaild, probably?
 * I am not responsible for bricked devices, dead SD cards, etc
 * YOU are choosing to make these modificiations, and if 
