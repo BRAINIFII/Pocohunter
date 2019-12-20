@@ -15,6 +15,11 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 *  (you can also use arm64 version) and choose kalifs-armhf-minimal.tar.xz or kalifs-armhf-full.tar.xz and place it in internal storage then rename kalifs-armhf-   minimal.tar.xz to kalifs-minimal.tar.xz. If thats done open nethunter and install chroot manually.
 ## .......
 
+## .......
+## Feature request or bugs report under issues tab
+* Link to issues tab https://github.com/Martinvlba/Pocohunter/issues
+## .......
+
 ### If you have any questions or want to report bugs PM me.
 Telegram: https://t.me/Hilledkinged
 ### Official kernel group to keep track of updates and news
