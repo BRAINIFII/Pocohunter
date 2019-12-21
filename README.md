@@ -14,7 +14,8 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 *  You can download chroot from https://build.nethunter.com/kalifs/kalifs-latest/
 *  (you can also use arm64 version) and choose kalifs-armhf-minimal.tar.xz or kalifs-armhf-full.tar.xz and place it in internal storage then rename kalifs-armhf-   minimal.tar.xz to kalifs-minimal.tar.xz. If thats done open nethunter and install chroot manually.
 ## .......
-
+## this kernel uses modified firmware drivers
+* link to the source https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
 ## .......
 ## Feature request or bugs report under issues tab
 * Link to issues tab https://github.com/Martinvlba/Pocohunter/issues
