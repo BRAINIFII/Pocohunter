@@ -1,5 +1,4 @@
-# Pocohunter android pie (9)
-Idea is to create nethunter supported beryllium kernel and add new features to it. But I can't give ETA when I add releases to kernel. When I have time then I will try to create new version and add it here. Sry bad English.
+# Pocohunter android Q (10)
 
 ## .......
 * @@ i am not responsible for your actions! IN EVERY WAY @@
@@ -12,7 +11,7 @@ Idea is to create nethunter supported beryllium kernel and add new features to i
 ## .......
 *  Recommended ROM is Lineage OS 16
 *  You can download chroot from https://build.nethunter.com/kalifs/kalifs-latest/
-*  (you can also use arm64 version) and choose kalifs-armhf-minimal.tar.xz or kalifs-armhf-full.tar.xz and place it in internal storage then rename kalifs-armhf-   minimal.tar.xz to kalifs-minimal.tar.xz. If thats done open nethunter and install chroot manually.
+*  (use arm64 version) and choose kalifs-arm64-minimal.tar.xz or kalifs-armhf-full.tar.xz and place it in internal storage then rename kalifs-arm64-(size).tar.xz to kalifs-(size).tar.xz. If thats done open nethunter and install chroot manually.
 ## .......
 * kernel zip contains only kernel with modueles and firmware drivers.
 * update zip contains kernel, nethunter apps, modules and firmware drivers.
