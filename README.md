@@ -12,6 +12,7 @@
 *  Recommended ROM is Lineage OS 17 or Crdroid 6 or better (other roms can cause bootloop when flashed nethunter)
 *  You can download chroot from https://build.nethunter.com/kalifs/kalifs-latest/
 *  (use arm64 version) and choose kalifs-arm64-minimal.tar.xz or kalifs-armhf-full.tar.xz and place it in internal storage then rename kalifs-arm64-(size).tar.xz to kalifs-(size).tar.xz. If thats done open nethunter and install chroot manually.
+* Keep track what will be added and fixed https://github.com/users/Martinvlba/projects/1
 ## .......
 * kernel zip contains only kernel with modueles and firmware drivers.
 * update zip contains kernel, nethunter apps, modules and firmware drivers.
