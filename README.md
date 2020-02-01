@@ -1,5 +1,5 @@
 # Pocohunter android Q (10)
-
+## Downloads under releases guys. Dont press the green button!!!
 ## .......
 * @@ i am not responsible for your actions! IN EVERY WAY @@
 * Your warranty is void. Or vaild, probably?
