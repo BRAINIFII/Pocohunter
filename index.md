@@ -4,11 +4,14 @@
 ## Downloads
 
 ### Full flash with chroot includes (chroot, nethunter apps, Kernel)
-[Full flash with chroot](https://www.google.com "Full flash with chroot")
+[Full flash with chroot](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Full_package.zip "Full flash with chroot")
 ### Update package with kernel includes (nethunter apps, Kernel)
-[Update nethunter with kernel](https://www.google.com "Update nethunter with kernel")
+[Update nethunter with kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Update_Package.zip "Update nethunter with kernel")
 ### kernel Package includes (Kernel)
-[Only kernel](https://www.google.com "Only kernel")
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Kernel_beryllium.zip "Only kernel")
+
+### Uninstaller includes (Full uninstall of nethunter)
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Uninstaller.zip "Only kernel")
 
 ### Andrax (For this you can use Kernel only package)
 [download](https://andrax.thecrackertechnology.com/download "Andrax Link")
