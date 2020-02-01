@@ -1,9 +1,10 @@
-Here you will find the sources that i use.
+# Here you will find the sources that i use.
 
-Kernel (Spacewar): https://github.com/GZR-Kernels/Optimus_Drunk_Beryllium/tree/10.0
-Kernel (Moonwalk): https://github.com/GZR-Kernels/Optimus_Drunk_Beryllium/tree/9.0
-modded firmware: https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
-nethunter builder: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/tree/2020.1
-kernel config: just enable basic things that nethunter wiki says.
+* Kernel (Spacewar): https://github.com/GZR-Kernels/Optimus_Drunk_Beryllium/tree/10.0
+* Kernel (Moonwalk): https://github.com/GZR-Kernels/Optimus_Drunk_Beryllium/tree/9.0
+* modded firmware: https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
+* nethunter builder: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/tree/2020.1
+* kernel config: just enable basic things that nethunter wiki says.
+* Nethunter-Builder: https://github.com/Martinvlba/Pocohunter_builder
 
 Sources are in links because i dont use the same stuff over and over.
