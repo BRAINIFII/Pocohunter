@@ -1,5 +1,7 @@
 # Before doing something read the info in github repo  [HERE](https://github.com/Martinvlba/Pocohunter/blob/master/README.md "Read me!!!")
 
+# Kernel compiling guide https://github.com/Martinvlba/Pocohunter/wiki
+
 
 ## Downloads
 
