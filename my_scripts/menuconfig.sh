@@ -14,11 +14,11 @@ export ARCH=arm64
 
 export SUBARCH=arm64
 
-export NDKPATH=~/Desktop/Kernel_Q/ndk/android-ndk-r21c
+#export NDKPATH=~/Desktop/Kernel_Q/ndk/android-ndk-r21c
 
-export CCOMPILE=$CROSS_COMPILE
+#export CCOMPILE=$CROSS_COMPILE
 
-export ANDROID_SYSROOT=~/Desktop/Kernel_Q/ndk/android-ndk-r21c/platforms/android-18/arch-arm64
+#export ANDROID_SYSROOT=~/Desktop/Kernel_Q/ndk/android-ndk-r21c/platforms/android-18/arch-arm64
 
 echo "**** Done Setting Toolchain ****"
 
