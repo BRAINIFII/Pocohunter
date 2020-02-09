@@ -6,5 +6,6 @@
 * nethunter builder: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/tree/2020.1
 * kernel config: just enable basic things that nethunter wiki says.
 * Nethunter-Builder: https://github.com/Martinvlba/Pocohunter_builder
+* Kernel module app: https://github.com/kimocoder/nethunter_kernel_modules_app
 
 Sources are in links because i dont use the same stuff over and over.
