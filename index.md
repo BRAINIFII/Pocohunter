@@ -2,25 +2,23 @@
 
 # Kernel compiling guide https://github.com/Martinvlba/Pocohunter/wiki
 
-
 ## Downloads
 
-### Full flash with chroot includes (chroot, nethunter apps, Kernel)
-[Full flash with chroot](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Full_package.zip "Full flash with chroot")
-### Update package with kernel includes (nethunter apps, Kernel)
-[Update nethunter with kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Update_Package.zip "Update nethunter with kernel")
-### kernel Package includes (Kernel)
-[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Kernel_beryllium.zip "Only kernel")
+### Update package with kernel (includes: nethunter apps, Kernel)
+[Update nethunter with kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Update.zip "Update nethunter with kernel")
+
+### kernel Package (includes: Kernel)
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Kernel.zip "Only kernel")
 
 ### Uninstaller includes (Full uninstall of nethunter)
-[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.1/Uninstaller.zip "Only kernel")
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Uninstaller.zip "Uninstall")
 
 ### Andrax (For this you can use Kernel only package)
 [download](https://andrax.thecrackertechnology.com/download "Andrax Link")
 
 ## Information
 * sry for bad english.
-* also look into my telegram group [Telegram](https://t.me/Pocohunter_kernel "t.me")
+* also look into my telegram group [Telegram](https://t.me/Pocohunter_kernel "t.me/...")
 * My releases dont include Andrax so you need to download it by yourself. Download link in Download section.
 ### About the kernel
 
