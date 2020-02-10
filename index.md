@@ -5,13 +5,13 @@
 ## Downloads
 
 ### Update package with kernel (includes: nethunter apps, Kernel)
-[Update nethunter with kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Update.zip "Update nethunter with kernel")
+[Update nethunter with kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2.1/Update.zip "Update nethunter with kernel")
 
 ### kernel Package (includes: Kernel)
-[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Kernel.zip "Only kernel")
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2.1/Kernel.zip "Only kernel")
 
 ### Uninstaller includes (Full uninstall of nethunter)
-[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2/Uninstaller.zip "Uninstall")
+[Only kernel](https://github.com/Martinvlba/Pocohunter/releases/download/2.2.1/Uninstaller.zip "Uninstall")
 
 ### Andrax (For this you can use Kernel only package)
 [download](https://andrax.thecrackertechnology.com/download "Andrax Link")
