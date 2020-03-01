@@ -16,4 +16,4 @@ sub_arch
 optimal
 other thins in toolchain section
 
-And place the scripts in The kernel_source folder (that waht you cloned or downloaded).
+And place the scripts in The kernel_source folder (that what you cloned or downloaded).
