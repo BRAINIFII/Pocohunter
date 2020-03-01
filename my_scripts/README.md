@@ -1,8 +1,10 @@
 Before using scripts you need to modify the locations of the dependencys
 like cross_compiler is located in
-~/Desktop/Kernel_Q/toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+/home/user/Desktop/Kernel_Q/toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 if you use same location as the scripts say then you dont need to modify them
 but if not then modify the locations in every script.
+
+And remember toolchain requires always a full path /home/user/...... not ~/kernel/toolchain
 
 needed things are only
 
