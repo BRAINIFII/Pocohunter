@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #set -e
-
+cd android_kernel_xiaomi_sdm845
 ## Copy this script inside the kernel directory
 
 echo "**** Setting Toolchain ****"
@@ -14,11 +14,11 @@ export ARCH=arm64
 
 export SUBARCH=arm64
 
-#export NDKPATH=~/Desktop/Kernel_Q/ndk/android-ndk-r21c
+export NDKPATH=~/Desktop/Kernel_Q/ndk/android-ndk-r21c
 
-#export CCOMPILE=$CROSS_COMPILE
+export CCOMPILE=$CROSS_COMPILE
 
-#export ANDROID_SYSROOT=~/Desktop/Kernel_Q/ndk/android-ndk-r21c/platforms/android-18/arch-arm64
+export ANDROID_SYSROOT=~/Desktop/Kernel_Q/ndk/android-ndk-r21c/platforms/android-18/arch-arm64
 
 echo "**** Done Setting Toolchain ****"
 
@@ -27,12 +27,13 @@ echo "          BUILDING def config          "
 echo -e "***********************************************$nocol"
 make clean
 make mrproper
+rm -rf out/
+mkdir out
 make O=out clean
 make O=out mrproper
-make O=out beryllium_defconfig
-
+# make O=out beryllium_defconfig
+make O=out pocohunter_defconfig
 echo "************"
 echo "	  DONE	 "
 echo "************"
 #sha1sum $ANDROIDDIR/kernel/$FINAL_KERNEL_ZIP
-
